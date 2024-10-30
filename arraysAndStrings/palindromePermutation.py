@@ -33,3 +33,5 @@ print(palindromePermutation("Tact coa"))
 print(palindromePermutation("testing"))
 print(palindromePermutation("mam"))
 print(palindromePermutation("mmmdd"))
+
+# NEEDSWORK: how to solve this with a bit vectos?
